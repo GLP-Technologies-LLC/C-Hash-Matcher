@@ -1,10 +1,3 @@
-/*!
- * C-Hash-Matcher <https://github.com/ry4n98/C-Hash-Matcher>
- *
- * Copyright (c) 2018, Ryan Smith.
- * Licensed under the MIT License.
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
