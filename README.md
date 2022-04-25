@@ -5,11 +5,6 @@ unencrypted value of the hash.
 
 ## Usage guide - Mac & Linux
 
-Clone the repository:
-```bash
-git clone https://github.com/ry4n98/C-Hash-Matcher
-```
-
 Navigate to the folder by running:
 ```bash
 cd C-Hash-Matcher
@@ -52,9 +47,3 @@ Hash value: e401f2bd399f3456e5348217a7908ca545ea6d179f60f297a1b0133e87d2ff85
 ```
 
 In this case, a match was found, we now know that the un-hashed value for `e401f2bd399f3456e5348217a7908ca545ea6d179f60f297a1b0133e87d2ff85` is the hex value of `1388`. 
-
-[GitHub Repo](https://github.com/ryansmith98/C-Hash-Matcher)
-
-[Report an Issue](https://github.com/ryansmith98/C-Hash-Matcher/issues)
-
-[![License](https://img.shields.io/badge/License-MIT-yellowgreen.svg?style=flat-square)](https://github.com/ryansmith98/C-Hash-Matcher/blob/master/LICENSE.md)
